@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a project used by Carvana in part of their interview process for a Predictive Modeling position. All code and quoted lines are outputs from ChatGPT with the questions asked being the "prompt" of each section.
+This is a project used by Carvana in part of their interview process for a Predictive Modeling position. All code and quoted lines are outputs from ChatGPT with the questions asked being the "prompt" of each section.  Although the code is useless in its original output by GPT most code sections can be applied with minor editing.
 
 [For comparison, a completed version of the project can be found here.](https://rpubs.com/uky994/578056)
 
