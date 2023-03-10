@@ -3,7 +3,7 @@
 This project was assigned by Carvana during an interview process for a Predictive Modeling Internship.
 
 ## Background: 
-Carvana had performed a outbound call initiative in which they were reaching out to customers who had inquired at some point and provided their information, but did not end up purchasing.  The goal of the initiative was to convert the unsold customers into sales.  
+Carvana had performed an outbound call initiative in which they were reaching out to customers who had inquired at some point and provided their information, but did not end up purchasing.  The goal of the initiative was to convert the unsold customers into sales.  
 
 ## The goal: 
 Analyze the provided data on all customers that were a part of the initiative to determine insights on who is most likely able to be converted in the future.  The customer data consisted of things like ages, incomes, credit scores, along with the time and day of the outbound calls.  
